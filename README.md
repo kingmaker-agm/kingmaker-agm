@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratheep B.G</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **AWS**
+![Banner](https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif)
 
-- 💬 Ask me about **Laravel, Web, ReactJS, GCP**
-
-- 📫 How to reach me **pratheep@kingmaker.co.in**
+- 🔭 I’m currently working on some personal Projects 
+- 🌱 I’m currently learning AWS 
+- 💬 Ask me about Laravel, Web & Cloud 
+- 📫 How to reach me: pratheep@kingmaker.co.in 
+- 😄 Pronouns: He/Him 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
